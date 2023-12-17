@@ -9,7 +9,7 @@ Please, be patient. It's still a work in progress....
 ```javascript
 const andre_andrade = {
     pronouns: "He" | "Him",
-    code: ["Python", "Javascript", "Java", "GDScript", "PHP", "C"],
+    code: ["Python", "Javascript", "Java", "GDScript", "C", "PHP"],
     ask_me_about: ["full stack", "tech", "app dev", "game dev", "photography"],
     technologies: {
         back_end: {
@@ -23,10 +23,10 @@ const andre_andrade = {
             techs: ["React Native", "Flutter", "Godot"]
         },
         dev_ops: ["AWS", "Docker🐳", "Nginx", "Apache", "Digital Ocean"],
-        databases: ["MySql", "sqlite", "Oracle", "Redis"],
-        misc: ["Firebase", "selenium"]
+        databases: ["MySql", "Sqlite", "Oracle", "Redis"],
+        misc: ["Firebase", "Selenium"]
     },
-    current_focus: ["Finops", "Game Development"] 
+    current_focus: ["Finops", "Stable Diffusion", "ComfyUI" ,"Game Development"] 
 };
 ```
 

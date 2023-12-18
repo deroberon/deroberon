@@ -31,7 +31,12 @@ const andre_andrade = {
 ```
 
 ### Where you can find me
-In progress
+- https://ar.linkedin.com/in/andregustavoandrade
 
 ### Did you said Games? 
+Yes, I like to play and sometimes code games also.
+
+### Did you said Stable Diffusion? 
+Yes, I'm in!! I like to express myself through generated AI art. As a SD environment I love the freedom that Comfyui give me to get the exactly result I want node by node. And if I don't find one, I can always code my own.
+
 
